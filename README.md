@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently pursuing Master's in Computer Science at Univeristy of Illinois, Chicago
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjna19&theme=swift)](https://github.com/sanjna19/github-readme-stats)
 
 [![Sanjna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjna19&theme=swift)](https://github.com/sanjna19/github-readme-stats)
