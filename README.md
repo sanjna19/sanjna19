@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently pursuing Master's in Computer Science at Univeristy of Illinois, Chicago
-- [![Sanjna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjna19)](https://github.com/sanjna19/github-readme-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjna19)](https://github.com/sanjna19/github-readme-stats)
+[![Sanjna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjna19)](https://github.com/sanjna19/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjna19)](https://github.com/sanjna19/github-readme-stats)
 
 <!--
 **sanjna19/sanjna19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
