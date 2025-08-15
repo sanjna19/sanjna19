@@ -3,7 +3,7 @@
 - 🔭 I’m currently pursuing Master's in Computer Science at Univeristy of Illinois, Chicago
 [![Sanjna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjna19)](https://github.com/sanjna19/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sanjna19&theme=dark&background=000000)](https:/sanjna19/git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sanjna19&theme=swift)](https:/sanjna19/git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjna19)](https://github.com/sanjna19/github-readme-stats)
 
