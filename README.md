@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Sanjna.
 
-- 🔭 I’m currently pursuing Master's in Computer Science at Univeristy of Illinois, Chicago
+- 🔭  Master's in Computer Science at Univeristy of Illinois, Chicago
 
 ---
 ### 🔥 &nbsp; My Stats :
