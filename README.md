@@ -5,8 +5,6 @@
 ---
 ### 🔥 &nbsp; My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjna19&theme=swift)](https://github.com/sanjna19/github-readme-stats)
-
 [![Sanjna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjna19&theme=swift)](https://github.com/sanjna19/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sanjna19&theme=swift)](https:/sanjna19/git.io/streak-stats)
